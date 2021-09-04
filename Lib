@@ -2,3 +2,7 @@ Librairies :
 
 mido pip install mido
 python-rtmidi pip install python-rtmidi
+
+
+Utilitaires :
+vmpk virtual keyboard windows
